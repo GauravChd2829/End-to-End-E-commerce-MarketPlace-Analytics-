@@ -1,5 +1,7 @@
-__pycache__/
 venv/
-.env
-*.log
+__pycache__/
+*.pyc
+logs/
+data/raw/
+data/incoming/
 *.csv
